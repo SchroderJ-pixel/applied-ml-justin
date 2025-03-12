@@ -152,6 +152,9 @@ matplotlib
 # Statistical data visualization library built on matplotlib (~2-5 MB)
 seaborn
 
+# It provides tools for data preprocessing, model training, evaluation, and more.
+scikit-learn
+
 # Interactive plotting library, often used with Shiny apps (~20-25 MB)
 #plotly
 
